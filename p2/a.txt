@@ -5,7 +5,7 @@ Switching time(Td(on) tr, td(off),Tf)
 v_gs(th) => threshold voltage
 v_gs(max) => maximum gate to source voltage
 Q_g @V => gate charge @V
-Maximum junction temp
 R_thjunction to case
 V_f body diode forward voltage
 Max allowed power dissipation
+Maximum junction temp
