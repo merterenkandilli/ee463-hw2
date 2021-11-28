@@ -3,6 +3,7 @@ R_DS(on)@V => on resistance @V
 I_D@T => Continuous drain current @T
 Switching time(Td(on) tr, td(off),Tf)
 v_gs(th) => threshold voltage
+v_gs(max) => maximum gate to source voltage
 Q_g @V => gate charge @V
 Maximum junction temp
 R_thjunction to case
