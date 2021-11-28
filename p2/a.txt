@@ -1,10 +1,10 @@
 V_BRDSS => max blocking voltage
+v_gs(th) => threshold voltage
 R_DS(on)@V => on resistance @V
 I_D@T => Continuous drain current @T
+Switching time(Td(on) tr, td(off),Tf)
 Q_g @V => gate charge @V
-v_gs(th) => threshold voltage
 Maximum junction temp
 R_thjunction to case
 V_f body diode forward voltage
 Max allowed power dissipation
-Switching time(Td(on) tr, td(off),Tf)
